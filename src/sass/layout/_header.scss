@@ -157,7 +157,7 @@ nav {
 
     transition: color $main-animation, background-color $main-animation;
 
-    cursor: url('../images/cursor/dollar.svg'), auto;
+    cursor: url('../images/cursor/cursor.svg'), auto;
 
     &:hover {
         background-color: $hover-color;
@@ -201,7 +201,7 @@ nav {
 
     transition: color $main-animation, background-color $main-animation;
 
-    cursor: url('../images/cursor/dollar.svg'), auto;
+    cursor: url('../images/cursor/cursor.svg'), auto;
 
     &:hover {
         background-color: $hover-color;
@@ -626,7 +626,7 @@ nav {
 
     transition: opacity $main-animation;
 
-    cursor: url('../images/cursor/hand.svg'), auto;
+    cursor: url('../images/cursor/cursor.svg'), auto;
 }
 
 .isShowBtn {

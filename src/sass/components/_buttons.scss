@@ -1,9 +1,13 @@
 a {
-    cursor: url('../images/cursor/hand.svg'), auto;
+    cursor: url('../images/cursor/cursor.svg'), auto;
+
+    &:hover {
+        cursor: url('../images/cursor/cursor.svg'), auto;
+    }
 }
 
 button {
-    cursor: url('../images/cursor/hand.svg'), auto;
+    cursor: url('../images/cursor/cursor.svg'), auto;
 }
 
 .button {
