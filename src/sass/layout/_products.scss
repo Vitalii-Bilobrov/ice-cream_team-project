@@ -91,6 +91,12 @@
         padding-right: 64px;
         padding-bottom: 60px;
     }
+
+    transition: scale 500ms;
+
+    &:hover {
+        scale: 1.05;
+    }
 }
 
 @each $product in product_1, product_2, product_3 {
